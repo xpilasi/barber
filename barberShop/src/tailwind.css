@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'merri_w_regular';
+    src: url('../src/assets/fonts/Merriweather/Merriweather-Regular.ttf');
+  }
+@font-face {
+    font-family: 'heaters';
+    src: url('../src/assets/fonts/Heaters/Heaters.otf');
+  }
+@font-face {
+    font-family: 'bebasKai';
+    src: url('../src/assets/fonts/BebasKai/BebasKai.otf');
+  }
+@font-face {
+    font-family: 'highrise';
+    src: url('../src/assets/fonts/Highrise/HighriseFont-Condensed-Demo.otf');
+  }
+@font-face {
+    font-family: 'smythe';
+    src: url('../src/assets/fonts/Smythe/Smythe-Regular.ttf');
+  }
+@font-face {
+    font-family: 'heavitas';
+    src: url('../src/assets/fonts/Heavitas/Heavitas.ttf');
+  }
+@font-face {
+    font-family: 'hilborn';
+    src: url('../src/assets/fonts/Hilborn/Hilborn.otf');
+  }
