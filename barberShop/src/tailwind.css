@@ -30,3 +30,11 @@
     font-family: 'hilborn';
     src: url('../src/assets/fonts/Hilborn/Hilborn.otf');
   }
+@font-face {
+    font-family: 'futura_regular';
+    src: url('../src/assets/fonts/Futura/futura_medium_bt.ttf');
+  }
+@font-face {
+    font-family: 'futura_light';
+    src: url('../src/assets/fonts/Futura/Futura_Book_font.ttf');
+  }

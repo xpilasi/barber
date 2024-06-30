@@ -4,6 +4,10 @@ export default {
     './index.html', 
     './src/**/*.{vue,js,ts,jsx,tsx}'],
   theme: {
+    backgroundImage:theme =>({
+      'barber-chair': "url('./src/assets/img/backgrounds/chair.jpg')",
+      'barber-vintage': "url('./src/assets/bg/booking_bg.jpg')"
+    }),
     letterSpacing:{
       tightest: '-.075em',
       tighter: '-.05em',
@@ -17,7 +21,8 @@ export default {
     extend: {
       colors:{
        'barber-bg': '#1D1C1C',
-       'beige':'#D7D4D1'
+       'beige':'#D7D4D1',
+       'celeste':'#A3B2CE',
       },
       fontFamily:{
         merryRegular: 'merri_w_regular',
@@ -26,7 +31,9 @@ export default {
         heavitas:'heavitas',
         hilborn:'hilborn',
         bebasKai:'bebasKai',
-        smythe:'smythe'
+        smythe:'smythe',
+        futura:'futura_regular',
+        futuraLight:'futura_light',
       }
     },
   },
