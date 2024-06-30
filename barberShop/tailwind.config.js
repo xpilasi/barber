@@ -4,6 +4,7 @@ export default {
     './index.html', 
     './src/**/*.{vue,js,ts,jsx,tsx}'],
   theme: {
+    
     backgroundImage:theme =>({
       'barber-chair': "url('./src/assets/img/backgrounds/chair.jpg')",
       'barber-vintage': "url('./src/assets/bg/booking_bg.jpg')"

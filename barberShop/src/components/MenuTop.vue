@@ -44,7 +44,7 @@ const checkScreen = ()=>{
 const handleScroll = ()=>{
     if (window.scrollY > 0) {
         menuClasses.value = 'pl-5 text-sm  transition-all duration-300';
-        navClassDesk.value = ' py-5 flex fixed w-full justify-center sm:pr-10 sm:pl-5 md:pr-5 md:pl-5 lg:pr-20  lg:pl-20 items-center bg-black bg-opacity-50'
+        navClassDesk.value = ' py-5 flex fixed w-full justify-center sm:pr-10 sm:pl-5 md:pr-5 md:pl-5 lg:pr-20  lg:pl-20 items-center bg-barber-bg '
 
     }else{
         menuClasses.value = 'pl-10 text-sm transition-all duration-300';
