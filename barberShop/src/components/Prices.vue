@@ -6,7 +6,7 @@ import {ref,onMounted} from 'vue';
 
 </script>
 <template>
-    <section id="galeria" class=" bg-barber-gallery min-h-screen w-auto py-10 bg-cover flex justify-center items-center ">hola
+    <section id="precios" class=" bg-barber-prices min-h-screen w-auto py-10 bg-cover flex justify-center items-center ">hola
         <!-- <h2 class='p-7 my-10 text-white font-hilborn tracking-widest text-3xl'>Ubicación</h2> -->
     </section>
     

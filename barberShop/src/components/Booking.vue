@@ -10,12 +10,12 @@ const description_2 = "Una barbería de lujo con inspiración tradicional en la 
 
 </script>
 <template>
-<section class=' bg-barber-vintage min-h-screen w-auto py-10 bg-cover flex justify-center items-center'>
+<section id="reserva" class=' bg-barber-booking min-h-screen w-auto py-10 bg-cover flex justify-center items-center'>
 
     <div class=' sm:px-5 md:px-20 lg:px-60 '>
   
         
-        <img :src=BarberShopLogo alt="" width="600">
+        <img class="px-6" :src=BarberShopLogo alt="" width="600">
         <div id="booking_booking button" class='flex justify-center h-40  '><BookingButton/></div>
 
     </div>

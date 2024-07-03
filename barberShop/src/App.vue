@@ -5,6 +5,7 @@ import Booking from './components/Booking.vue';
 import Footer from './components/Footer.vue';
 import Social from './components/Social.vue';
 import Location from './components/Location.vue';
+import Prices from './components/Prices.vue';
 
 </script>
 
@@ -13,6 +14,7 @@ import Location from './components/Location.vue';
     <MenuTop/>
     <Booking/>
     <Location/>
+    <Prices/>
     <Social/>
     <Footer/>
 
