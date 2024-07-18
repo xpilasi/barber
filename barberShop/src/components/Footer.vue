@@ -5,7 +5,7 @@ import BookingButton from './BookingButton.vue';
 
 </script>
 <template>
-<footer class='justify-center items-center bg-barber-bg h-64'>
+<footer class='h-64'>
     <div class=" flex justify-end h-3/4 items-center pr-10">
         <ul>
             <li></li>
