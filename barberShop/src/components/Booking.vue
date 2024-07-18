@@ -2,7 +2,7 @@
 <script setup>
 
 import BookingButton from './BookingButton.vue';
-import BarberShopLogo from '../assets/img/logos/barbershop_logo.svg';
+import BarberShopLogo from '../assets/img/logos/logoVintageGroom.svg';
 import Information from './widgets/Information.vue';
 
 </script>
